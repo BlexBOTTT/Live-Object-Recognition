@@ -3,9 +3,8 @@ Recognizing objects-subject from a live camera feed based on YOLOv5
 
 - ### Sample Output
   ![Image 1](1_label.jpg) | ![Image 2](2_result.jpg)
-  :---: | :---:
-  
-  ![[Video](dataset/thumbnail.jpg)](3_vid-result.mp4)
+   :---: | :---:
+  [![Video Thumbnail](dataset/thumbnail.jpg)](3_vid-result.mp4)
 
 ## Credits
 - [Tutorial](https://www.youtube.com/watch?v=GRtgLlwxpc4)
