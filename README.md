@@ -6,6 +6,7 @@ Recognizing objects-subject from a live camera feed based on YOLOv5
 - [YOLOv5](https://github.com/ultralytics/yolov5)
 - [install pytorch](https://gist.github.com/vandbt/62e137881a9e2014d4ded452d3e8e8dd)
 - [Makesense.ai](https://www.makesense.ai)
+- [Downloading a folder via being zipped](https://philipkiely.com/code/colab_download)
 
 - ### Dataset
   - [Bicycle](https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset/)
